@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../gcap.srcs/sources_1/new/dram_top.v" \
+"../../../../gcap.srcs/sim_1/new/tb_dram.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

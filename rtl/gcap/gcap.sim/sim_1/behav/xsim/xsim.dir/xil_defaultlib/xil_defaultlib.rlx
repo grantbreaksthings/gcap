@@ -1,0 +1,10 @@
+0.6
+2019.2
+Nov  6 2019
+21:42:20
+/home//projects/gcap/rtl/gcap/gcap.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+/home//projects/gcap/rtl/gcap/gcap.srcs/sim_1/new/tb_dram.v,1583125485,verilog,,,,tb_dram,,,,,,,,
+/home//projects/gcap/rtl/gcap/gcap.srcs/sim_1/new/tb_edge_detectors.v,1582521864,verilog,,,,tb_edge_detectors,,,,,,,,
+/home//projects/gcap/rtl/gcap/gcap.srcs/sources_1/new/dram_top.v,1583125575,verilog,,/home//projects/gcap/rtl/gcap/gcap.srcs/sim_1/new/tb_dram.v,,dram_top,,,,,,,,
+/home//projects/gcap/rtl/gcap/gcap.srcs/sources_1/new/negedge_detector.v,1582528951,verilog,,/home//projects/gcap/rtl/gcap/gcap.srcs/sources_1/new/posedge_detector.v,,negedge_detector,,,,,,,,
+/home//projects/gcap/rtl/gcap/gcap.srcs/sources_1/new/posedge_detector.v,1582521436,verilog,,/home//projects/gcap/rtl/gcap/gcap.srcs/sim_1/new/tb_edge_detectors.v,,posedge_detector,,,,,,,,
